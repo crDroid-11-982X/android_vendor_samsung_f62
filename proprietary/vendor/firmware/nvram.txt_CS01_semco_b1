@@ -308,7 +308,7 @@ btldopu=1
 lhl_ps_mode=3
 
 #Disable 11AX
-disable_11ax=1
+disable_11ax=0
 
 
 # FE Loss comp parameters
