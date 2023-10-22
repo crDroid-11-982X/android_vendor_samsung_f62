@@ -74,11 +74,6 @@ PRODUCT_PACKAGES += \
     libbauthserver \
     libbauthtzcommon \
     sensors.sensorhub \
-    libaudioeffectoffload \
-    audio.primary.exynos9825 \
-    lib_SamsungRec_07010 \
-    libaudioproxy \
-    librecordalive \
     libspatializerparamstorage \
     libswdap \
     android.hardware.gnss@2.1-impl \
